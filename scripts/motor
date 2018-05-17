@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2018/5/17 11:23
+# @Author  : jiakang
+# @File    : motor
+# @Software: IntelliJ IDEA
+# mtool_notes: motor script
+
+import sys
+
+print('motor %s' % sys.argv)
