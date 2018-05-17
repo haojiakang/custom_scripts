@@ -9,4 +9,4 @@
 import sys
 
 print('motor %s' % sys.argv)
-print('youyou')
+print('youyou, hei')
