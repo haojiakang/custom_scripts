@@ -9,4 +9,4 @@
 import sys
 
 # print('motor %s' % sys.argv)
-print('hi, this is custom script \'motor\', you input: ' % sys.argv)
+print('hi, this is custom script \'motor\', you input: %s' % sys.argv)
