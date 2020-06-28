@@ -8,6 +8,6 @@
 
 import sys
 
-print('motor %s' % sys.argv)
+# print('motor %s' % sys.argv)
 # print('')
 print('hi, this is custom script \'motor\', you input: %s' % sys.argv[1:])
