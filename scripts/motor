@@ -4,7 +4,7 @@
 # @Author  : jiakang
 # @File    : motor
 # @Software: IntelliJ IDEA
-# sman_notes: motor script
+# sman_notes: custom script 'motor'
 
 import sys
 
