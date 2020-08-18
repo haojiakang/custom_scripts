@@ -13,3 +13,4 @@ import sys
 print('hi, this is custom script \'motor\', you input: %s' % sys.argv[1:])
 print (1)
 print (2)
+print (3)
